@@ -2,6 +2,7 @@
   "name": "express-react-server-docker",
   "version": "1.0.0",
   "description": "Express server to serve built react files in a docker",
+  "repository": "https://github.com/mohithg/express-react-docker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
